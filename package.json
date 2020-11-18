@@ -1,0 +1,17 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "Book Store ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "author": "Abdelrhman Sayed",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
